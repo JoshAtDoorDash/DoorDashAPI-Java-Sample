@@ -1,6 +1,6 @@
 # DoorDashAPI-Java-Sample
 
-This sample is an example of how to create a JWT using Java when calling the DoorDash API. Additionally, it creates a delivery request using the JWT.
+This sample is an example of how to create a JWT using Java when calling the DoorDash API.
 
 It builds a token that is valid for 30 minutes. Please obtain a set of DoorDash Credentials (Developer ID, Key ID, and Signing Secret) in the [DoorDash Developer Portal](https://developer.doordash.com/portal/integration/drive/credentials) to use in the application.
 
