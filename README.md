@@ -1,4 +1,4 @@
-# DoorDashAPI-Java-Sample
+# DoorDash API Java Sample
 
 This sample is an example of how to create a JWT using Java when calling the DoorDash API.
 
