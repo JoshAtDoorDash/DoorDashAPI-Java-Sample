@@ -14,7 +14,7 @@ Follow these steps to run the sample app:
 
 1. Clone repository locally.
 2. Open the project located in the ```source/DoorDashAPIJavaSample``` folder with [IntelliJ IDEA](https://www.jetbrains.com/idea/).
-3. Open TODO in the editor and resolve all TODO items listed in comments, save changes.
+3. Open the ```DoorDash.java``` file (located in ```source/DoorDashAPIJavaSample/src/main/java/org/example/doordash/```) in your editor and resolve all TODO items listed in comments, save changes.
 4. Build and run the application.
 
 ## More About DoorDash Credentials
